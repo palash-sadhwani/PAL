@@ -1,0 +1,26 @@
+*.iml
+.idea/
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Generated build, diagnostic, and downloaded model artifacts
+app/.cxx/
+app/build/
+*.apk
+*.aab
+*.orig
+pal_logcat.txt
+build-gradle-output.txt
+*.gguf

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PAL</string>
+
+    <string name="chat_open_settings">Open settings</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_input_hint">Message PAL</string>
+    <string name="chat_empty_title">Start a conversation</string>
+    <string name="chat_empty_body">PAL will keep your conversation locally on the device.</string>
+    <string name="chat_loading">PAL is preparing your local conversation</string>
+    <string name="chat_placeholder_generating">PAL is generating a response</string>
+    <string name="chat_error_empty_message">Please enter a message first.</string>
+    <string name="chat_error_opening_conversation">PAL could not open your conversation.</string>
+    <string name="chat_error_generating_response">PAL could not generate a response right now.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_back">Back</string>
+    <string name="settings_subtitle">Privacy-Preserving On-Device AI Agent for Android</string>
+    <string name="settings_ai_section_title">AI</string>
+    <string name="settings_ai_section_body">Phase 1 uses a deterministic local placeholder engine. No cloud AI is integrated.</string>
+    <string name="settings_ai_engine_label">AI Engine</string>
+    <string name="settings_ai_engine_value">Foundation Mode</string>
+    <string name="settings_ai_model_label">Model</string>
+    <string name="settings_ai_model_value">Not configured</string>
+    <string name="settings_privacy_section_title">Privacy</string>
+    <string name="settings_privacy_section_body">Conversation data is stored locally on the device. Phase 1 does not upload user data to cloud services.</string>
+    <string name="settings_privacy_local_only_note">Local-only mode is active.</string>
+    <string name="settings_storage_section_title">Storage</string>
+    <string name="settings_storage_section_body">Conversation history is persisted locally in Room.</string>
+    <string name="settings_about_section_title">About</string>
+    <string name="settings_about_section_body">PAL is the foundation for a privacy-preserving Android AI agent.</string>
+</resources>
